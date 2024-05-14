@@ -23,9 +23,11 @@
 <h2 align="center"> Languages / Framework Tools </h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ps,pr,ae,au,ai" />
+<!--   <br/> -->
   <img src="https://skillicons.dev/icons?i=blender,unreal" />
+<!--   <br/> -->
   <img src="https://skillicons.dev/icons?i=js,vscode" />
-</div>
+<!-- </div> -->
 
 <hr/>
 
