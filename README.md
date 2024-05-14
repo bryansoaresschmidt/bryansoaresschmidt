@@ -1,5 +1,4 @@
-<h3 align="center">A JavaScript student from Brazil</h3>
-<br/> 
+<h1 align="center">A JavaScript student from Brazil</h1>
 
 <div align="center">
   
@@ -20,7 +19,7 @@
     
 <hr/> <!--horizontal roll-->
 
-<h2 align="center"> Languages / Framework Tools </h2>
+<h3 align="center"> Languages / Framework Tools </h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ps,pr,ae,au,ai" />
 <!--   <br/> -->
@@ -28,10 +27,10 @@
 <!--   <br/> -->
   <img src="https://skillicons.dev/icons?i=js,vscode" />
 <!-- </div> -->
-
+  
 <hr/>
 
-<h2 align="center"> Skills </h2>
+<h3 align="center"> Skills </h3>
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bryansoaresschmidt&theme=windows-dark&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=390&card_height=170" alt="GitHub Streak" /></a>
 <br/>
