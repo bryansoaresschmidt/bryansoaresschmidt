@@ -25,7 +25,7 @@
 <!--   <br/> -->
   <img src="https://skillicons.dev/icons?i=blender,unreal" />
 <!--   <br/> -->
-  <img src="https://skillicons.dev/icons?i=js,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,vscode,html" />
 <!-- </div> -->
   
 <hr/>
