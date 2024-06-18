@@ -1,5 +1,7 @@
 <div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fffff&center=true&random=false&width=700&lines=Hello+World!🌎;+I'm+Bryan,+nice+to+meet+you!+Welcome+to+my+profile!+%E2%AD%90%EF%B8%8F)](https://git.io/typing-svg)
+  
 </div>
 
 
