@@ -5,7 +5,7 @@
 </div>
 
 
-<h1 align="center">A JavaScript student from Brazil 👨‍🎓 </h1>
+<h1 align="center">A student from Brazil 👨‍🎓 </h1>
 
 <div align="center">
   
