@@ -29,9 +29,9 @@
 <h3 align="center"> 🛠️ Languages / Framework Tools 🛠️</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ps,pr,ae,au,ai" />
-<!--   <br/> -->
+<br/>
   <img src="https://skillicons.dev/icons?i=blender,unreal" />
-<!--   <br/> -->
+<br/>
     <img src="https://skillicons.dev/icons?i=git,github" />
 <br/> 
   <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,java,mysql" />
