@@ -11,7 +11,7 @@
   
 👋 Hi, I’m Bryan Schmidt
   
-🌱 I’m currently learning JavaScript
+🌱 I’m currently learning JavaScript, Java, HTML, CSS and MySQL
 
 📫 Send a message in my social media below
 </div>
