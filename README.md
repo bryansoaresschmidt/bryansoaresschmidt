@@ -33,13 +33,13 @@
   <img src="https://skillicons.dev/icons?i=blender,unreal" />
 <!--   <br/> -->
     <img src="https://skillicons.dev/icons?i=git,github" />
-<!--   <br/> -->
+<br/> 
   <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,java,mysql" />
-  <!--   <br/> -->  
+<br/>
   <img src="https://skillicons.dev/icons?i=react,spring" />
-  <!--   <br/> -->
+<br/>
   <img src="https://skillicons.dev/icons?i=vscode,idea,nodejs,postman" />
-<!-- </div> -->
+</div>
   
 <hr/>
 
