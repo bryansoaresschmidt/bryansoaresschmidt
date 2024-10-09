@@ -32,7 +32,13 @@
 <!--   <br/> -->
   <img src="https://skillicons.dev/icons?i=blender,unreal" />
 <!--   <br/> -->
-  <img src="https://skillicons.dev/icons?i=js,vscode,html" />
+    <img src="https://skillicons.dev/icons?i=git,github" />
+<!--   <br/> -->
+  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,java,mysql" />
+  <!--   <br/> -->  
+  <img src="https://skillicons.dev/icons?i=react,spring" />
+  <!--   <br/> -->
+  <img src="https://skillicons.dev/icons?i=vscode,idea,nodejs,postman" />
 <!-- </div> -->
   
 <hr/>
