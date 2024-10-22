@@ -9,7 +9,7 @@
 
 <div align="center">
   
-👋 Hi, I’m Bryan Schmidt
+Hello 👋 
   
 🌱 I’m currently learning JavaScript, Java, HTML, CSS and MySQL
 
