@@ -42,7 +42,7 @@ Hello 👋
 </div>
   
 <hr/>
-
+<!--
 <h3 align="center"> 🛠️ Stats 🛠️ </h3>
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bryansoaresschmidt&theme=windows-dark&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=390&card_height=170" alt="GitHub Streak" /></a>
@@ -50,8 +50,8 @@ Hello 👋
 <br/>
     <img width=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhyago&hide=HTML&langs_count=8&layout=compact&theme=github_dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
     <img width=330 src="https://github-readme-stats.vercel.app/api?username=bryansoaresschmidt&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&border_radius=10" alt="readme stats" />
-
 </div>
+-->
 
 <br/>
 
