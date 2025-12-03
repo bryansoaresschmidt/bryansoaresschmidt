@@ -17,7 +17,7 @@ Hello 👋
 </div>
 
 <div align="center">
-  <a href="https://www.instagram.com/_bryanschmidt_/">
+  <a href="https://www.instagram.com/bryan.promove.ai/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   <a href="https://www.linkedin.com/in/bryansoaresschmidt/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
